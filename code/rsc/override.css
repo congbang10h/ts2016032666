@@ -1,0 +1,39 @@
+.wrap .x-grid-cell-inner {
+  white-space: normal;
+}
+
+.x-form-invalid-box div.x-box-inner,
+.x-form-invalid-box .x-form-radio-group,
+.x-form-invalid-field{
+  background: url(invalid_line.gif) repeat-x bottom white;
+  border: 1px solid #c30;
+}
+.x-form-num-field {
+    text-align: right;
+}
+.x-form-checkboxgroup-body {
+  padding: 0;
+}
+.x-tool-after-title, .x-tool-before-title{
+	margin-left: -1px !important;
+}
+.x-form-focus{
+    color: black !important;
+}
+.x-form-readonly .x-form-text{
+	border-style: dashed !important;
+    color: #777;
+}
+.x-form-readonly .x-form-trigger-wrap{
+	border-style: dashed !important;
+}
+.x-box-target, .x-grid-view{
+	height: 100%;
+}
+.x-message-box .x-box-target{
+	overflow-y: auto;
+	overflow-x: hidden;
+}
+.x-form-readonly .x-form-item-label {
+    color: #777;
+}

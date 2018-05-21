@@ -1,0 +1,401 @@
+@import "education.css";
+
+.setting16 {
+	background: url(icons/setting16.png);
+}
+.nav16 {
+	background: url(icons/nav16.png);
+}
+.expand16 {
+	background: url(icons/expand16.png);
+}
+.collapse16 {
+	background: url(icons/collapse16.png);
+}
+.insert16 {
+	background: url(icons/insert16.png);
+}
+.review16 {
+	background: url(icons/review16.png);
+}
+.up16 {
+	background: url(icons/arrowup16.png);
+}
+.down16 {
+	background: url(icons/arrowdown16.png);
+}
+.remove16 {
+	background: url(icons/remove16.png);
+}
+.gdrive16 {
+	background: url(icons/gdrive16.png);
+}
+.gdrive32 {
+	background: url(icons/gdrive32.png);
+}
+.mediafire16 {
+	background: url(icons/mediafire16.png);
+}
+.info16 {
+	background: url(icons/info16.png);
+}
+.content16 {
+	background: url(icons/content16.png);
+}
+.skip16 {
+	background: url(icons/skip16.png);
+}
+.reset16 {
+	background: url(icons/reset16.png);
+}
+.refresh16 {
+	background: url(icons/refresh16.png);
+}
+.verify16 {
+	background: url(icons/verify16.png);
+}
+.draghandle {
+	background: url(icons/drag_handle.png) no-repeat;
+	width: 18px;
+	height: 35px;
+	cursor: move;
+}
+.nodeconnect {
+	background: url(icons/nodeconnect.png) center no-repeat;
+	width: 16px;
+	height: 35px;
+	cursor: crosshair;
+}
+.next16 {
+	background: url(icons/next16.png);
+}
+.login16 {
+	background: url(icons/login16.png);
+}
+.login32 {
+	background: url(icons/login32.png);
+}
+.media16 {
+	background: url(icons/media16.png);
+}
+.create16 {
+	background: url(icons/create16.png);
+}
+.department16 {
+    background: url(icons/department16.png);
+}
+.register16 {
+	background: url(icons/register16.png);
+}
+.moderator16 {
+	background: url(icons/moderator16.png);
+}
+.home16 {
+	background: url(icons/home16.png);
+}
+.lostpass16 {
+	background: url(icons/lostpass16.png);
+}
+.member16{
+	background: url(icons/member16.png);
+}
+.link16 {
+	background: url(icons/link16.png);
+}
+.chart16 {
+	background: url(icons/chart16.png);
+}
+.download16 {
+	background: url(icons/download16.png);
+}
+.send16 {
+	background: url(icons/send16.png);
+}
+.keys16 {
+	background: url(icons/keys16.png);
+}
+.survey16 {
+	background: url(icons/survey16.png);
+}
+.usermng16 {
+	background: url(icons/usermng16.png);
+}
+.usermng32 {
+	background: url(icons/usermng32.png);
+}
+.batch16 {
+	background: url(icons/batch16.png);
+}
+.batch32 {
+	background: url(icons/batch32.png);
+}
+.find16 {
+	background: url(icons/find16.png);
+}
+.find32 {
+	background: url(icons/find32.png);
+}
+.backup16 {
+	background: url(icons/backup16.png);
+}
+.backup32 {
+	background: url(icons/backup32.png);
+}
+.tags32 {
+	background: url(icons/tags32.png);
+}
+.tags_n32 {
+	background: url(icons/tags_n32.png);
+}
+.changepass32 {
+	background: url(icons/changepass32.png);
+}
+.changeinfo32 {
+	background: url(icons/changeinfo32.png);
+}
+.exit32 {
+	background: url(icons/exit32.png);
+}
+.lock32 {
+	background: url(icons/lock32.png);
+}
+.unlock32 {
+	background: url(icons/unlock32.png);
+}
+.depts16 {
+	background: url(icons/depts16.png);
+}
+.lock16 {
+	background: url(icons/lock16.png);
+}
+.unlock16 {
+	background: url(icons/unlock16.png);
+}
+.changepass16 {
+	background: url(icons/changepass16.png);
+}
+.changeinfo16 {
+	background: url(icons/changeinfo16.png);
+}
+.exit16 {
+	background: url(icons/exit16.png);
+}
+.config16 {
+	background: url(icons/config16.png);
+}
+.config32 {
+	background: url(icons/config32.png);
+}
+.contact16 {
+	background: url(icons/contact16.png);
+}
+.contact32 {
+	background: url(icons/contact32.png);
+}
+.duplicate16 {
+	background: url(icons/clone16.png);
+}
+.duplicate32 {
+	background: url(icons/clone32.png);
+}
+.question16 {
+    background: url(icons/question16.png);
+}
+.qgroup16 {
+    background: url(icons/qgroup16.png);
+}
+.question32 {
+	background: url(icons/question32.png);
+}
+.surveymng16 {
+	background: url(icons/surveymng16.png);
+}
+.surveymng32 {
+	background: url(icons/surveymng32.png);
+}
+.import16 {
+	background: url(icons/import16.png);
+}
+.importing16 {
+	background: url(icons/importing16.png);
+}
+.import32 {
+	background: url(icons/import32.png);
+}
+.export16 {
+	background: url(icons/export16.png);
+}
+.export32 {
+	background: url(icons/export32.png);
+}
+.reportfile16 {
+	background: url(icons/reportfile16.png);
+}
+.report16 {
+	background: url(icons/report16.png);
+}
+.report32 {
+	background: url(icons/report32.png);
+}
+.contact16 {
+	background: url(icons/contact16.png);
+}
+.contact32 {
+	background: url(icons/contact32.png);
+}
+.manage16 {
+	background: url(icons/manage16.png);
+}
+.manage32 {
+	background: url(icons/manage32.png);
+}
+.progress16 {
+	background: url(icons/progress16.png);
+}
+.finish16 {
+	background: url(icons/finish16.png);
+}
+.finish32 {
+	background: url(icons/finish32.png);
+}
+.task16 {
+	background: url(icons/task16.png);
+}
+.task32 {
+	background: url(icons/task32.png);
+}
+.free16 {
+	background: url(icons/free16.png);
+}
+.free32 {
+	background: url(icons/free32.png);
+}
+.adv16 {
+	background: url(icons/adv16.png);
+}
+.adv32 {
+	background: url(icons/adv32.png);
+}
+.recycle16 {
+	background: url(icons/recycle16.png);
+}
+.recycle32 {
+	background: url(icons/recycle32.png);
+}
+.restore16 {
+	background: url(icons/restore16.png);
+}
+.restore32 {
+	background: url(icons/restore32.png);
+}
+.share16 {
+	background: url('icons/share16.png');
+}
+.add16 {
+	background: url('icons/add16.png');
+}
+.add32 {
+	background: url('icons/add32.png');
+}
+.edit16 {
+	background: url('icons/edit16.png');
+}
+.delete16 {
+	background: url('icons/delete16.png');
+}
+.delete32 {
+	background: url('icons/delete32.png');
+}
+.category16 {
+	background: url('icons/category16.png');
+}
+.category32 {
+	background: url('icons/category32.png');
+}
+.system16 {
+	background: url('icons/system16.png');
+}
+.system32 {
+	background: url('icons/system32.png');
+}
+.group16 {
+	background: url('icons/group16.png');
+}
+.group32 {
+	background: url('icons/group32.png');
+}
+.majors16 {
+	background: url('icons/majors16.png');
+}
+.majors32 {
+	background: url('icons/majors32.png');
+}
+.profession16 {
+	background: url('icons/profession16.png');
+}
+.back16 {
+	background: url('icons/back16.png');
+}
+.save16 {
+	background: url('icons/save16.png') no-repeat;
+}
+.check16 {
+    background: url('icons/check16.png');
+}
+.exam16 {
+    background: url('icons/exam16.png');
+}
+.check1 {
+	background: url('icons/check116.png');
+}
+.check0 {
+	background: url('icons/check016.png');
+}
+.stop16 {
+	background: url('icons/stop16.png');
+}
+.cancel16 {
+	background: url('icons/cancel16.png');
+}
+.require16 {
+	background: url('icons/require16.png');
+}
+.rand16 {
+	background: url('icons/rand16.png');
+}
+.requiren16 {
+	background: url('icons/require_n16.png');
+}
+.randn16 {
+	background: url('icons/rand_n16.png');
+}
+.image-upload {
+	background: url('icons/image_add16.png') no-repeat 0 0 !important;
+}
+.data16 {
+	background: url('icons/data16.png') no-repeat 0 0 !important;
+}
+.preview16 {
+	background: url('icons/preview16.png');
+}
+.analyze16 {
+	background: url('icons/analyze16.png');
+}
+.google16{
+	background: url('icons/google16.png');
+}
+.facebook16{
+	background: url('icons/facebook16.png');
+}
+.google24{
+	background: url('icons/google24.png') no-repeat 0 0 !important;
+}
+.facebook24{
+	background: url('icons/facebook24.png') no-repeat 0 0 !important;
+}
+.google32{
+	background: url('icons/google32.png') no-repeat 0 0 !important;
+}
+.facebook32{
+	background: url('icons/facebook32.png') no-repeat 0 0 !important;
+}

@@ -1,0 +1,10 @@
+2015-12-03 01:42:42 E_STRICT> Declaration of Question::_duplicate() should be compatible with DBObject::_duplicate($params, $opts = NULL, $values = Array)
+1. PHP shutdown
+2. php\router.php : doRpc() (Line 56)
+3. php\init.php : __autoload() (Line 26)
+4. php\dbo\Question.php (Line 387)
+5. php\include\exception.php : log_error() (Line 114)
+6. php\class\Console.php : flog() (Line 22)
+
+
+

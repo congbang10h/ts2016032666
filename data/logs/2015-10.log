@@ -1,0 +1,291 @@
+2015-10-17 01:32:09 E_STRICT> Declaration of Question::_duplicate() should be compatible with DBObject::_duplicate($params, $opts = NULL, $values = Array)
+1. PHP shutdown
+2. php\router.php : doRpc() (Line 56)
+3. php\init.php : __autoload() (Line 26)
+4. php\dbo\Question.php (Line 387)
+5. php\include\exception.php : log_error() (Line 114)
+6. php\class\Console.php : flog() (Line 22)
+
+
+
+2015-10-17 02:03:05 E_STRICT> Declaration of Question::_duplicate() should be compatible with DBObject::_duplicate($params, $opts = NULL, $values = Array)
+1. PHP shutdown
+2. php\router.php : doRpc() (Line 56)
+3. php\init.php : __autoload() (Line 26)
+4. php\dbo\Question.php (Line 387)
+5. php\include\exception.php : log_error() (Line 114)
+6. php\class\Console.php : flog() (Line 22)
+
+
+
+2015-10-17 02:48:59 E_STRICT> Declaration of Question::_duplicate() should be compatible with DBObject::_duplicate($params, $opts = NULL, $values = Array)
+1. PHP shutdown
+2. php\router.php : doRpc() (Line 56)
+3. php\init.php : __autoload() (Line 26)
+4. php\dbo\Question.php (Line 387)
+5. php\include\exception.php : log_error() (Line 114)
+6. php\class\Console.php : flog() (Line 22)
+
+
+
+2015-10-17 02:49:10 E_STRICT> Declaration of Question::_duplicate() should be compatible with DBObject::_duplicate($params, $opts = NULL, $values = Array)
+1. PHP shutdown
+2. php\router.php : doRpc() (Line 56)
+3. php\init.php : __autoload() (Line 26)
+4. php\dbo\Question.php (Line 387)
+5. php\include\exception.php : log_error() (Line 114)
+6. php\class\Console.php : flog() (Line 22)
+
+
+
+2015-10-17 02:49:28 E_STRICT> Declaration of Question::_duplicate() should be compatible with DBObject::_duplicate($params, $opts = NULL, $values = Array)
+1. PHP shutdown
+2. php\router.php : doRpc() (Line 56)
+3. php\init.php : __autoload() (Line 26)
+4. php\dbo\Question.php (Line 387)
+5. php\include\exception.php : log_error() (Line 114)
+6. php\class\Console.php : flog() (Line 22)
+
+
+
+2015-10-17 02:49:40 E_STRICT> Declaration of Question::_duplicate() should be compatible with DBObject::_duplicate($params, $opts = NULL, $values = Array)
+1. PHP shutdown
+2. php\router.php : doRpc() (Line 56)
+3. php\init.php : __autoload() (Line 26)
+4. php\dbo\Question.php (Line 387)
+5. php\include\exception.php : log_error() (Line 114)
+6. php\class\Console.php : flog() (Line 22)
+
+
+
+2015-10-17 02:50:12 E_STRICT> Declaration of Question::_duplicate() should be compatible with DBObject::_duplicate($params, $opts = NULL, $values = Array)
+1. PHP shutdown
+2. php\router.php : doRpc() (Line 56)
+3. php\init.php : __autoload() (Line 26)
+4. php\dbo\Question.php (Line 387)
+5. php\include\exception.php : log_error() (Line 114)
+6. php\class\Console.php : flog() (Line 22)
+
+
+
+2015-10-17 02:50:14 E_STRICT> Declaration of Question::_duplicate() should be compatible with DBObject::_duplicate($params, $opts = NULL, $values = Array)
+1. PHP shutdown
+2. php\router.php : doRpc() (Line 56)
+3. php\init.php : __autoload() (Line 26)
+4. php\dbo\Question.php (Line 387)
+5. php\include\exception.php : log_error() (Line 114)
+6. php\class\Console.php : flog() (Line 22)
+
+
+
+2015-10-17 02:50:25 E_STRICT> Declaration of Question::_duplicate() should be compatible with DBObject::_duplicate($params, $opts = NULL, $values = Array)
+1. PHP shutdown
+2. php\router.php : doRpc() (Line 56)
+3. php\init.php : __autoload() (Line 26)
+4. php\dbo\Question.php (Line 387)
+5. php\include\exception.php : log_error() (Line 114)
+6. php\class\Console.php : flog() (Line 22)
+
+
+
+2015-10-17 02:50:34 E_STRICT> Declaration of Question::_duplicate() should be compatible with DBObject::_duplicate($params, $opts = NULL, $values = Array)
+1. PHP shutdown
+2. php\router.php : doRpc() (Line 56)
+3. php\init.php : __autoload() (Line 26)
+4. php\dbo\Question.php (Line 387)
+5. php\include\exception.php : log_error() (Line 114)
+6. php\class\Console.php : flog() (Line 22)
+
+
+
+2015-10-17 02:51:04 E_STRICT> Declaration of Question::_duplicate() should be compatible with DBObject::_duplicate($params, $opts = NULL, $values = Array)
+1. PHP shutdown
+2. php\router.php : doRpc() (Line 56)
+3. php\init.php : __autoload() (Line 26)
+4. php\dbo\Question.php (Line 387)
+5. php\include\exception.php : log_error() (Line 114)
+6. php\class\Console.php : flog() (Line 22)
+
+
+
+2015-10-17 02:51:04 E_STRICT> Declaration of Question::_duplicate() should be compatible with DBObject::_duplicate($params, $opts = NULL, $values = Array)
+1. PHP shutdown
+2. php\router.php : doRpc() (Line 56)
+3. php\init.php : __autoload() (Line 26)
+4. php\dbo\Question.php (Line 387)
+5. php\include\exception.php : log_error() (Line 114)
+6. php\class\Console.php : flog() (Line 22)
+
+
+
+2015-10-17 02:51:11 E_STRICT> Declaration of Question::_duplicate() should be compatible with DBObject::_duplicate($params, $opts = NULL, $values = Array)
+1. PHP shutdown
+2. php\router.php : doRpc() (Line 56)
+3. php\init.php : __autoload() (Line 26)
+4. php\dbo\Question.php (Line 387)
+5. php\include\exception.php : log_error() (Line 114)
+6. php\class\Console.php : flog() (Line 22)
+
+
+
+2015-10-17 02:51:11 E_STRICT> Declaration of Question::_duplicate() should be compatible with DBObject::_duplicate($params, $opts = NULL, $values = Array)
+1. PHP shutdown
+2. php\router.php : doRpc() (Line 56)
+3. php\init.php : __autoload() (Line 26)
+4. php\dbo\Question.php (Line 387)
+5. php\include\exception.php : log_error() (Line 114)
+6. php\class\Console.php : flog() (Line 22)
+
+
+
+2015-10-17 03:22:07 E_STRICT> Declaration of Question::_duplicate() should be compatible with DBObject::_duplicate($params, $opts = NULL, $values = Array)
+1. PHP shutdown
+2. php\router.php : doRpc() (Line 56)
+3. php\init.php : __autoload() (Line 26)
+4. php\dbo\Question.php (Line 387)
+5. php\include\exception.php : log_error() (Line 114)
+6. php\class\Console.php : flog() (Line 22)
+
+
+
+2015-10-17 03:22:08 E_STRICT> Declaration of Question::_duplicate() should be compatible with DBObject::_duplicate($params, $opts = NULL, $values = Array)
+1. PHP shutdown
+2. php\router.php : doRpc() (Line 56)
+3. php\init.php : __autoload() (Line 26)
+4. php\dbo\Question.php (Line 387)
+5. php\include\exception.php : log_error() (Line 114)
+6. php\class\Console.php : flog() (Line 22)
+
+
+
+2015-10-17 03:23:16 E_STRICT> Declaration of Question::_duplicate() should be compatible with DBObject::_duplicate($params, $opts = NULL, $values = Array)
+1. PHP shutdown
+2. php\router.php : doRpc() (Line 56)
+3. php\init.php : __autoload() (Line 26)
+4. php\dbo\Question.php (Line 387)
+5. php\include\exception.php : log_error() (Line 114)
+6. php\class\Console.php : flog() (Line 22)
+
+
+
+2015-10-17 03:23:16 E_STRICT> Declaration of Question::_duplicate() should be compatible with DBObject::_duplicate($params, $opts = NULL, $values = Array)
+1. PHP shutdown
+2. php\router.php : doRpc() (Line 56)
+3. php\init.php : __autoload() (Line 26)
+4. php\dbo\Question.php (Line 387)
+5. php\include\exception.php : log_error() (Line 114)
+6. php\class\Console.php : flog() (Line 22)
+
+
+
+2015-10-17 03:36:49 E_STRICT> Declaration of Question::_duplicate() should be compatible with DBObject::_duplicate($params, $opts = NULL, $values = Array)
+1. PHP shutdown
+2. php\router.php : doRpc() (Line 56)
+3. php\init.php : __autoload() (Line 26)
+4. php\dbo\Question.php (Line 387)
+5. php\include\exception.php : log_error() (Line 114)
+6. php\class\Console.php : flog() (Line 22)
+
+
+
+2015-10-17 03:36:50 E_STRICT> Declaration of Question::_duplicate() should be compatible with DBObject::_duplicate($params, $opts = NULL, $values = Array)
+1. PHP shutdown
+2. php\router.php : doRpc() (Line 56)
+3. php\init.php : __autoload() (Line 26)
+4. php\dbo\Question.php (Line 387)
+5. php\include\exception.php : log_error() (Line 114)
+6. php\class\Console.php : flog() (Line 22)
+
+
+
+2015-10-17 03:38:01 E_STRICT> Declaration of Question::_duplicate() should be compatible with DBObject::_duplicate($params, $opts = NULL, $values = Array)
+1. PHP shutdown
+2. php\router.php : doRpc() (Line 56)
+3. php\init.php : __autoload() (Line 26)
+4. php\dbo\Question.php (Line 387)
+5. php\include\exception.php : log_error() (Line 114)
+6. php\class\Console.php : flog() (Line 22)
+
+
+
+2015-10-17 03:43:17 E_STRICT> Declaration of Question::_duplicate() should be compatible with DBObject::_duplicate($params, $opts = NULL, $values = Array)
+1. PHP shutdown
+2. php\router.php : doRpc() (Line 56)
+3. php\init.php : __autoload() (Line 26)
+4. php\dbo\Question.php (Line 387)
+5. php\include\exception.php : log_error() (Line 114)
+6. php\class\Console.php : flog() (Line 22)
+
+
+
+2015-10-17 03:43:17> 1. PHP shutdown2. php\router.php : doRpc() (Line 75)3. php\class\DBObject.php : read() (Line 162)4. php\class\DBObject.php : _read() (Line 544)5. php\class\DBObject.php : query() (Line 741)<b>Error (42000,1064)</b>:You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near 'ASC LIMIT 0,20' at line 8<b>Query</b>:SELECT `user`.`user_first_name` as `user_first_name`, `user`.`user_last_name` as `user_last_name`, `question_type_dict`.`question_type_code` as `question_type_code`, `bloom_level`.`bloom_level_desc` as `bloom_level_desc`, `question`.*
+FROM `question` 
+	LEFT JOIN `user` ON (`user`.`user_id`=`question`.`user_id`) 
+	LEFT JOIN `question_type_dict` ON (`question_type_dict`.`question_type_id`=`question`.`question_type_id`) 
+	LEFT JOIN `bloom_level` ON (`bloom_level`.`bloom_level_id`=`question`.`bloom_level_id`)
+GROUP BY `question`.`question_id`
+
+ORDER BY `question_type_dict`. ASC LIMIT 0,20
+2015-10-17 03:43:50 E_STRICT> Declaration of Question::_duplicate() should be compatible with DBObject::_duplicate($params, $opts = NULL, $values = Array)
+1. PHP shutdown
+2. php\router.php : doRpc() (Line 56)
+3. php\init.php : __autoload() (Line 26)
+4. php\dbo\Question.php (Line 387)
+5. php\include\exception.php : log_error() (Line 114)
+6. php\class\Console.php : flog() (Line 22)
+
+
+
+2015-10-17 03:43:50> 1. PHP shutdown2. php\router.php : doRpc() (Line 75)3. php\class\DBObject.php : read() (Line 162)4. php\class\DBObject.php : _read() (Line 544)5. php\class\DBObject.php : query() (Line 741)<b>Error (42000,1064)</b>:You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near 'ASC LIMIT 0,20' at line 9<b>Query</b>:SELECT `user`.`user_first_name` as `user_first_name`, `user`.`user_last_name` as `user_last_name`, `question_type_dict`.`question_type_code` as `question_type_code`, `bloom_level`.`bloom_level_desc` as `bloom_level_desc`, `question`.*
+FROM `question` 
+	LEFT JOIN `user` ON (`user`.`user_id`=`question`.`user_id`) 
+	LEFT JOIN `question_type_dict` ON (`question_type_dict`.`question_type_id`=`question`.`question_type_id`) 
+	LEFT JOIN `bloom_level` ON (`bloom_level`.`bloom_level_id`=`question`.`bloom_level_id`)
+WHERE (`question_type_code` LIKE '%Choice%')
+GROUP BY `question`.`question_id`
+
+ORDER BY `question_type_dict`. ASC LIMIT 0,20
+2015-10-17 03:49:21> 1. PHP shutdown2. php\router.php : doRpc() (Line 75)3. php\class\DBObject.php : read() (Line 162)4. php\class\DBObject.php : _read() (Line 544)5. php\class\DBObject.php : query() (Line 741)<b>Error (42S22,1054)</b>:Unknown column 'course.course_name' in 'field list'<b>Query</b>:SELECT `user`.`user_first_name` as `user_first_name`, `user`.`user_last_name` as `user_last_name`, `course`.`course_name` as `course_name`, `test`.*
+FROM `test` 
+	LEFT JOIN `user` ON (`user`.`user_id`=`test`.`user_id`) 
+	LEFT JOIN `course` ON (`course`.`course_id`=`test`.`course_id`)
+WHERE (`test`.user_id=1)
+GROUP BY `test`.`test_id`
+ LIMIT 0,20
+2015-10-17 05:14:44 E_STRICT> Declaration of Question::_duplicate() should be compatible with DBObject::_duplicate($params, $opts = NULL, $values = Array)
+1. PHP shutdown
+2. php\router.php : doRpc() (Line 56)
+3. php\init.php : __autoload() (Line 26)
+4. php\dbo\Question.php (Line 387)
+5. php\include\exception.php : log_error() (Line 114)
+6. php\class\Console.php : flog() (Line 22)
+
+
+
+2015-10-28 12:12:50 E_STRICT> Declaration of Question::_duplicate() should be compatible with DBObject::_duplicate($params, $opts = NULL, $values = Array)
+1. PHP shutdown
+2. php\router.php : doRpc() (Line 56)
+3. php\init.php : __autoload() (Line 26)
+4. php\dbo\Question.php (Line 387)
+5. php\include\exception.php : log_error() (Line 114)
+6. php\class\Console.php : flog() (Line 22)
+
+
+
+2015-10-28 12:13:27> 1. PHP shutdown2. php\router.php : doRpc() (Line 75)3. php\class\DBObject.php : read() (Line 162)4. php\class\DBObject.php : _read() (Line 544)5. php\class\DBObject.php : query() (Line 741)<b>Error (42S22,1054)</b>:Unknown column 'course.course_name' in 'field list'<b>Query</b>:SELECT `user`.`user_first_name` as `user_first_name`, `user`.`user_last_name` as `user_last_name`, `course`.`course_name` as `course_name`, `test`.*
+FROM `test` 
+	LEFT JOIN `user` ON (`user`.`user_id`=`test`.`user_id`) 
+	LEFT JOIN `course` ON (`course`.`course_id`=`test`.`course_id`)
+WHERE (`test`.user_id=1)
+GROUP BY `test`.`test_id`
+ LIMIT 0,20
+2015-10-31 02:34:33 E_STRICT> Declaration of Question::_duplicate() should be compatible with DBObject::_duplicate($params, $opts = NULL, $values = Array)
+1. PHP shutdown
+2. php\router.php : doRpc() (Line 56)
+3. php\init.php : __autoload() (Line 26)
+4. php\dbo\Question.php (Line 387)
+5. php\include\exception.php : log_error() (Line 114)
+6. php\class\Console.php : flog() (Line 22)
+
+
+

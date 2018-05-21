@@ -1,0 +1,45 @@
+.vx-action-column{
+    float: right;
+    display: block;
+}
+.vx-bt{
+    cursor: pointer;
+    display: block;
+}
+.NoItemSelected .vx-bt{
+    visibility: hidden;
+}
+.vx-bt-inside{
+    width: 72px;
+    height: 24px;
+    background: url(ui/inside0.png) no-repeat;
+}
+.vx-bt-inside:hover{
+    background: url(ui/inside1.png) no-repeat;
+}
+.vx-bt-outside{
+    width: 72px;
+    height: 24px;
+    background: url(ui/outside0.png) no-repeat;
+}
+.vx-bt-outside:hover{
+    background: url(ui/outside1.png)no-repeat;
+}
+.vx-search-item{
+    cursor: default;
+    background: -webkit-linear-gradient(#fff , #d0d0d0);
+    background: -o-linear-gradient(#fff , #d0d0d0);
+    background: -moz-linear-gradient(#fff , #d0d0d0);
+    background: linear-gradient(#fff , #d0d0d0);
+    min-height: 30px;
+    /*border: 2px solid whitesmoke;*/
+}
+.vx-search-item:hover{
+    background: -webkit-linear-gradient(#fff , #5294d0);
+    background: -o-linear-gradient(#fff , #5294d0);
+    background: -moz-linear-gradient(#fff , #5294d0);
+    background: linear-gradient(#fff , #5294d0);
+}
+.vx-group-view .drophover{
+    border: 2px solid green;
+}

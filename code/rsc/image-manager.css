@@ -1,0 +1,67 @@
+#image-manager .x-panel-body{
+    background: white;
+    font: 13px Helvetica, Arial, sans-serif;
+}
+#image-manager .thumb{
+    background: #dddddd;
+    padding: 3px 3px 0 3px;
+}
+
+.x-quirks #image-manager .thumb {
+    padding-bottom: 3px;
+}
+
+#image-manager .thumb img{
+    height: 60px;
+    width: 80px;
+}
+#image-manager .thumb-wrap{
+    float: left;
+    margin: 4px 0 4px 4px;
+    padding: 5px;
+}
+#image-manager .thumb-wrap span {
+    
+    display: block;
+    overflow: hidden;
+    text-align: center;
+    width: 86px; // for ie to ensure that the text is centered
+}
+
+#image-manager .x-item-over{
+    border:1px solid #dddddd;
+    background: #efefef url(over.gif) repeat-x left top;
+    padding: 4px;
+}
+
+#image-manager .x-item-selected{
+    background: #eff5fb url(selected.gif) no-repeat right bottom;
+    border:1px solid #99bbe8;
+    padding: 4px;
+}
+#image-manager .x-item-selected .thumb{
+    background:transparent;
+}
+
+#image-manager .loading-indicator {
+    font-size:11px;
+    background:url('../../resources/themes/images/default/grid/loading.gif') no-repeat left;
+    padding-left:20px;
+    margin:10px;
+}
+
+.x-view-selector {
+    position:absolute;
+    left:0;
+    top:0;
+    width:0;
+    border:1px dotted #3399bb;
+    opacity: .5;
+    -moz-opacity: .5;
+    filter:alpha(opacity=50);
+    zoom:1;
+    background-color:#c3daf9;
+}.ext-strict .ext-ie .x-tree .x-panel-bwrap{
+    position:relative;
+    overflow:hidden;
+}

@@ -1,0 +1,173 @@
+2016-03-21 02:19:12 E_NOTICE> Undefined index: userid
+1. php\api\getmark.php (Line 6)
+2. php\include\exception.php : log_error() (Line 120)
+3. php\class\Console.php : flog() (Line 27)
+
+
+
+2016-03-21 02:19:12 E_NOTICE> Undefined index: testid
+1. php\api\getmark.php (Line 7)
+2. php\include\exception.php : log_error() (Line 120)
+3. php\class\Console.php : flog() (Line 27)
+
+
+
+2016-03-21 02:19:38 E_WARNING> Invalid argument supplied for foreach()
+1. PHP shutdown
+2. php\dbo\User.php : login() (Line 245)
+3. php\class\Authorise.php : setUser() (Line 59)
+4. php\class\Authorise.php (Line 16)
+5. php\include\exception.php : log_error() (Line 120)
+6. php\class\Console.php : flog() (Line 27)
+
+
+
+2016-03-21 02:20:26 E_NOTICE> Undefined property: stdClass::$exam_id
+1. PHP shutdown
+2. php\router.php : doRpc() (Line 75)
+3. php\class\Exam.php (Line 189)
+4. php\include\exception.php : log_error() (Line 120)
+5. php\class\Console.php : flog() (Line 27)
+
+
+
+2016-03-21 02:21:02 E_WARNING> Invalid argument supplied for foreach()
+1. PHP shutdown
+2. php\dbo\User.php : login() (Line 245)
+3. php\class\Authorise.php : setUser() (Line 59)
+4. php\class\Authorise.php (Line 16)
+5. php\include\exception.php : log_error() (Line 120)
+6. php\class\Console.php : flog() (Line 27)
+
+
+
+2016-03-21 02:22:56 E_WARNING> Invalid argument supplied for foreach()
+1. PHP shutdown
+2. php\dbo\User.php : login() (Line 245)
+3. php\class\Authorise.php : setUser() (Line 59)
+4. php\class\Authorise.php (Line 16)
+5. php\include\exception.php : log_error() (Line 120)
+6. php\class\Console.php : flog() (Line 27)
+
+
+
+2016-03-21 02:51:55> 1. PHP shutdown2. php\router.php : doRpc() (Line 75)3. php\class\ListCSO.php : read() (Line 37)4. php\class\DBObject.php : query() (Line 821)<b>Error (42000,1064)</b>:You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near 'NULL' at line 1<b>Query</b>:CALL C2SOI_map_pivot(4)
+2016-03-21 02:03:52 E_NOTICE> Undefined property: stdClass::$exam_id
+1. PHP shutdown
+2. php\router.php : doRpc() (Line 75)
+3. php\class\Exam.php (Line 189)
+4. php\include\exception.php : log_error() (Line 120)
+5. php\class\Console.php : flog() (Line 27)
+
+
+
+2016-03-22 05:42:52> 1. PHP shutdown2. php\router.php : doRpc() (Line 75)3. php\class\CC_CO_R4TR.php : read() (Line 28)4. php\class\DBObject.php : query() (Line 821)<b>Error (42000,1064)</b>:You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near 'NULL' at line 1<b>Query</b>:CALL report7cc2co()
+2016-03-23 11:12:34> 1. PHP shutdown2. php\router.php : doRpc() (Line 75)3. php\class\CC_CO_R4T.php : prepare() (Line 8)4. php\class\DBObject.php : query() (Line 821)<b>Error (42S22,1054)</b>:Unknown column 'coi_2' in 'field list'<b>Query</b>:CALL report_CC_CO_R4T('30')<b>Params</b>:array (
+  0 => 30,
+)
+2016-03-23 11:12:59> 1. PHP shutdown2. php\router.php : doRpc() (Line 75)3. php\class\CC_CO_R4T.php : prepare() (Line 8)4. php\class\DBObject.php : query() (Line 821)<b>Error (42S22,1054)</b>:Unknown column 'coi_2' in 'field list'<b>Query</b>:CALL report_CC_CO_R4T('30')<b>Params</b>:array (
+  0 => 30,
+)
+2016-03-24 10:54:02> 1. PHP shutdown2. php\router.php : doRpc() (Line 75)3. php\class\CC_CO_R4T.php : prepare() (Line 8)4. php\class\DBObject.php : query() (Line 821)<b>Error (42S22,1054)</b>:Unknown column 'coi_2' in 'field list'<b>Query</b>:CALL report_CC_CO_R4T('30')<b>Params</b>:array (
+  0 => 30,
+)
+2016-03-27 03:49:58> 1. PHP shutdown2. AM_THESIS\02. OUTPUT\PROJECTS\ts20160327\code\php\router.php : doRpc() (Line 75)3. AM_THESIS\02. OUTPUT\PROJECTS\ts20160327\code\php\class\DBObject.php : read() (Line 192)4. AM_THESIS\02. OUTPUT\PROJECTS\ts20160327\code\php\class\DBObject.php : _read() (Line 599)5. AM_THESIS\02. OUTPUT\PROJECTS\ts20160327\code\php\class\DBObject.php : query() (Line 821)<b>Error (42S02,1146)</b>:Table 'testts._question_content' doesn't exist<b>Query</b>:SELECT COUNT(DISTINCT `_question_content`.`question_id`) as total
+FROM `_question_content` 
+	LEFT JOIN `user` ON (`user`.`user_id`=`_question_content`.`user_id`) 
+	LEFT JOIN `question_type_dict` ON (`question_type_dict`.`question_type_id`=`_question_content`.`question_type_id`) 
+	LEFT JOIN `bloom_level` ON (`bloom_level`.`bloom_level_id`=`_question_content`.`bloom_level_id`)
+WHERE (content_id = '')
+2016-03-27 03:51:49> 1. PHP shutdown2. AM_THESIS\02. OUTPUT\PROJECTS\ts20160327\code\php\router.php : doRpc() (Line 75)3. AM_THESIS\02. OUTPUT\PROJECTS\ts20160327\code\php\class\DBObject.php : read() (Line 192)4. AM_THESIS\02. OUTPUT\PROJECTS\ts20160327\code\php\class\DBObject.php : _read() (Line 599)5. AM_THESIS\02. OUTPUT\PROJECTS\ts20160327\code\php\class\DBObject.php : query() (Line 821)<b>Error (42S02,1146)</b>:Table 'testts._question_content' doesn't exist<b>Query</b>:SELECT COUNT(DISTINCT `_question_content`.`question_id`) as total
+FROM `_question_content` 
+	LEFT JOIN `user` ON (`user`.`user_id`=`_question_content`.`user_id`) 
+	LEFT JOIN `question_type_dict` ON (`question_type_dict`.`question_type_id`=`_question_content`.`question_type_id`) 
+	LEFT JOIN `bloom_level` ON (`bloom_level`.`bloom_level_id`=`_question_content`.`bloom_level_id`)
+WHERE (content_id = '')
+2016-03-27 04:38:51 E_RECOVERABLE_ERROR> Argument 1 passed to DBObject::_buildWhere() must be an instance of stdClass, array given, called in E:\DNTAI\Working\1506_TRAM_THESIS\02. OUTPUT\PROJECTS\ts20160327\code\php\class\DBObject.php on line 594 and defined
+1. PHP shutdown
+2. AM_THESIS\02. OUTPUT\PROJECTS\ts20160327\code\php\router.php : doRpc() (Line 75)
+3. AM_THESIS\02. OUTPUT\PROJECTS\ts20160327\code\php\class\DBObject.php : read() (Line 192)
+4. AM_THESIS\02. OUTPUT\PROJECTS\ts20160327\code\php\class\DBObject.php : _read() (Line 594)
+5. AM_THESIS\02. OUTPUT\PROJECTS\ts20160327\code\php\class\DBObject.php (Line 452)
+6. AM_THESIS\02. OUTPUT\PROJECTS\ts20160327\code\php\include\exception.php : log_error() (Line 120)
+7. AM_THESIS\02. OUTPUT\PROJECTS\ts20160327\code\php\class\Console.php : flog() (Line 27)
+
+
+
+2016-03-27 04:40:14 E_RECOVERABLE_ERROR> Argument 1 passed to DBObject::_buildWhere() must be an instance of stdClass, array given, called in E:\DNTAI\Working\1506_TRAM_THESIS\02. OUTPUT\PROJECTS\ts20160327\code\php\class\DBObject.php on line 594 and defined
+1. PHP shutdown
+2. AM_THESIS\02. OUTPUT\PROJECTS\ts20160327\code\php\router.php : doRpc() (Line 75)
+3. AM_THESIS\02. OUTPUT\PROJECTS\ts20160327\code\php\class\DBObject.php : read() (Line 192)
+4. AM_THESIS\02. OUTPUT\PROJECTS\ts20160327\code\php\class\DBObject.php : _read() (Line 594)
+5. AM_THESIS\02. OUTPUT\PROJECTS\ts20160327\code\php\class\DBObject.php (Line 452)
+6. AM_THESIS\02. OUTPUT\PROJECTS\ts20160327\code\php\include\exception.php : log_error() (Line 120)
+7. AM_THESIS\02. OUTPUT\PROJECTS\ts20160327\code\php\class\Console.php : flog() (Line 27)
+
+
+
+2016-03-27 04:40:22 E_RECOVERABLE_ERROR> Argument 1 passed to DBObject::_buildWhere() must be an instance of stdClass, array given, called in E:\DNTAI\Working\1506_TRAM_THESIS\02. OUTPUT\PROJECTS\ts20160327\code\php\class\DBObject.php on line 594 and defined
+1. PHP shutdown
+2. AM_THESIS\02. OUTPUT\PROJECTS\ts20160327\code\php\router.php : doRpc() (Line 75)
+3. AM_THESIS\02. OUTPUT\PROJECTS\ts20160327\code\php\class\DBObject.php : read() (Line 192)
+4. AM_THESIS\02. OUTPUT\PROJECTS\ts20160327\code\php\class\DBObject.php : _read() (Line 594)
+5. AM_THESIS\02. OUTPUT\PROJECTS\ts20160327\code\php\class\DBObject.php (Line 452)
+6. AM_THESIS\02. OUTPUT\PROJECTS\ts20160327\code\php\include\exception.php : log_error() (Line 120)
+7. AM_THESIS\02. OUTPUT\PROJECTS\ts20160327\code\php\class\Console.php : flog() (Line 27)
+
+
+
+2016-03-27 04:42:02 E_RECOVERABLE_ERROR> Argument 1 passed to DBObject::_buildWhere() must be an instance of stdClass, array given, called in E:\DNTAI\Working\1506_TRAM_THESIS\02. OUTPUT\PROJECTS\ts20160327\code\php\class\DBObject.php on line 594 and defined
+1. PHP shutdown
+2. AM_THESIS\02. OUTPUT\PROJECTS\ts20160327\code\php\router.php : doRpc() (Line 75)
+3. AM_THESIS\02. OUTPUT\PROJECTS\ts20160327\code\php\class\DBObject.php : read() (Line 192)
+4. AM_THESIS\02. OUTPUT\PROJECTS\ts20160327\code\php\class\DBObject.php : _read() (Line 594)
+5. AM_THESIS\02. OUTPUT\PROJECTS\ts20160327\code\php\class\DBObject.php (Line 452)
+6. AM_THESIS\02. OUTPUT\PROJECTS\ts20160327\code\php\include\exception.php : log_error() (Line 120)
+7. AM_THESIS\02. OUTPUT\PROJECTS\ts20160327\code\php\class\Console.php : flog() (Line 27)
+
+
+
+2016-03-27 04:43:02 E_RECOVERABLE_ERROR> Argument 1 passed to DBObject::_buildWhere() must be an instance of stdClass, array given, called in E:\DNTAI\Working\1506_TRAM_THESIS\02. OUTPUT\PROJECTS\ts20160327\code\php\class\DBObject.php on line 594 and defined
+1. PHP shutdown
+2. AM_THESIS\02. OUTPUT\PROJECTS\ts20160327\code\php\router.php : doRpc() (Line 75)
+3. AM_THESIS\02. OUTPUT\PROJECTS\ts20160327\code\php\class\DBObject.php : read() (Line 192)
+4. AM_THESIS\02. OUTPUT\PROJECTS\ts20160327\code\php\class\DBObject.php : _read() (Line 594)
+5. AM_THESIS\02. OUTPUT\PROJECTS\ts20160327\code\php\class\DBObject.php (Line 452)
+6. AM_THESIS\02. OUTPUT\PROJECTS\ts20160327\code\php\include\exception.php : log_error() (Line 120)
+7. AM_THESIS\02. OUTPUT\PROJECTS\ts20160327\code\php\class\Console.php : flog() (Line 27)
+
+
+
+2016-03-27 04:43:37 E_RECOVERABLE_ERROR> Argument 1 passed to DBObject::_buildWhere() must be an instance of stdClass, array given, called in E:\DNTAI\Working\1506_TRAM_THESIS\02. OUTPUT\PROJECTS\ts20160327\code\php\class\DBObject.php on line 594 and defined
+1. PHP shutdown
+2. AM_THESIS\02. OUTPUT\PROJECTS\ts20160327\code\php\router.php : doRpc() (Line 75)
+3. AM_THESIS\02. OUTPUT\PROJECTS\ts20160327\code\php\class\DBObject.php : read() (Line 192)
+4. AM_THESIS\02. OUTPUT\PROJECTS\ts20160327\code\php\class\DBObject.php : _read() (Line 594)
+5. AM_THESIS\02. OUTPUT\PROJECTS\ts20160327\code\php\class\DBObject.php (Line 452)
+6. AM_THESIS\02. OUTPUT\PROJECTS\ts20160327\code\php\include\exception.php : log_error() (Line 120)
+7. AM_THESIS\02. OUTPUT\PROJECTS\ts20160327\code\php\class\Console.php : flog() (Line 27)
+
+
+
+2016-03-27 04:44:34 E_RECOVERABLE_ERROR> Argument 1 passed to DBObject::_buildWhere() must be an instance of stdClass, array given, called in E:\DNTAI\Working\1506_TRAM_THESIS\02. OUTPUT\PROJECTS\ts20160327\code\php\class\DBObject.php on line 594 and defined
+1. PHP shutdown
+2. AM_THESIS\02. OUTPUT\PROJECTS\ts20160327\code\php\router.php : doRpc() (Line 75)
+3. AM_THESIS\02. OUTPUT\PROJECTS\ts20160327\code\php\class\DBObject.php : read() (Line 192)
+4. AM_THESIS\02. OUTPUT\PROJECTS\ts20160327\code\php\class\DBObject.php : _read() (Line 594)
+5. AM_THESIS\02. OUTPUT\PROJECTS\ts20160327\code\php\class\DBObject.php (Line 452)
+6. AM_THESIS\02. OUTPUT\PROJECTS\ts20160327\code\php\include\exception.php : log_error() (Line 120)
+7. AM_THESIS\02. OUTPUT\PROJECTS\ts20160327\code\php\class\Console.php : flog() (Line 27)
+
+
+
+2016-03-27 04:45:12 E_RECOVERABLE_ERROR> Argument 1 passed to DBObject::_buildWhere() must be an instance of stdClass, array given, called in E:\DNTAI\Working\1506_TRAM_THESIS\02. OUTPUT\PROJECTS\ts20160327\code\php\class\DBObject.php on line 594 and defined
+1. PHP shutdown
+2. AM_THESIS\02. OUTPUT\PROJECTS\ts20160327\code\php\router.php : doRpc() (Line 75)
+3. AM_THESIS\02. OUTPUT\PROJECTS\ts20160327\code\php\class\DBObject.php : read() (Line 192)
+4. AM_THESIS\02. OUTPUT\PROJECTS\ts20160327\code\php\class\DBObject.php : _read() (Line 594)
+5. AM_THESIS\02. OUTPUT\PROJECTS\ts20160327\code\php\class\DBObject.php (Line 452)
+6. AM_THESIS\02. OUTPUT\PROJECTS\ts20160327\code\php\include\exception.php : log_error() (Line 120)
+7. AM_THESIS\02. OUTPUT\PROJECTS\ts20160327\code\php\class\Console.php : flog() (Line 27)
+
+
+

@@ -1,0 +1,12 @@
+<Files *.ini>
+deny from all
+</Files>
+<IfModule mod_rewrite.c>
+	RewriteEngine On
+	RewriteRule favicon.ico rsc/favicon.ico [NC,L]
+	#RewriteRule .* rsc/baotri.html [NC,L]
+	RewriteRule ^oauth2callback(.*)$ php/redirect/oauth2.html [QSA,NC,L]
+	RewriteRule ^data(.*)$ php/redirect/data.php [NC,L]
+	RewriteRule ^(.*)((js)|(css))((\?.*)|())$ php/redirect/gzip.php [QSA,NC,L]
+	RewriteRule ^index.html(.*)$ root.php$1 [QSA,NC,L]
+</IfModule>
